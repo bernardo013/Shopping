@@ -1,1 +1,3 @@
 Esta aplicação foi desenvolvida na linguagem Java para a criação de um shopping, onde possuímos a liberdade de criar lojas dos tipos {Informática, Alimentação, Bijuterias e Cosméticos}, sendo obrigatório informar endereço, data e produtos. Em relação aos produtos, é possível adicionar quantos forem necessários em sua loja, também sendo possível remover, alterar e exibir as quantidades de produtos. Observação: na classe Main está inserido um verificador de etapas que foi informado como obrigatório pela universidade.
+**Vídeo de apresentação**
+[![Assista ao vídeo](https://img.youtube.com/vi/wIc5EQW1jy4/0.jpg)](https://www.youtube.com/watch?v=wIc5EQW1jy4)
